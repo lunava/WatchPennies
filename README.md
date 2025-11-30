@@ -1,7 +1,14 @@
 <h1 align="center"> WatchPennies </h1> <br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+<div style="width:20%; margin: auto;">
+
+![Alt text](logo.png)
+</div>
 <p align="center">
-  Concrete Living Costs Breakdown
+  watchpennies.com
+</p>
+<p align="center">
+  Graphical Living Costs Breakdown
 </p>
 
 
@@ -29,7 +36,7 @@ A few of the things you can do with GitPoint:
 
 ## Feedback
 
-Feel free to send us feedback on [email](infowatchpennies@gmail.com) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. 
+Feel free to send us feedback on [email](infowatchpennies@gmail.com) or [file an issue](https://github.com/lunava/WatchPennies/issues). Feature requests are always welcome. 
 
 If there's anything you'd like to chat about, email is always welcome!
 <!-- ## Contributors
