@@ -1,6 +1,6 @@
 <h1 align="center"> WatchPennies </h1> <br>
 
-<div style="width:20%; margin: auto;">
+<div style="width:20%; margin: auto;" align="center">
 
 ![Alt text](logo.png)
 </div>
