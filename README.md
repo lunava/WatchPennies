@@ -7,12 +7,17 @@
 
 
 <p align="center">
-  Graphical Living Costs Breakdown
+  Free-to-Use Cost of Living Breakdown
 </p>
 <p  style="width:20%; margin: auto;" align="center">
 
 [watchpennies.com](https://watchpennies.com/)
 </p>
+
+### Interactive Web Map
+
+![Alt text](wp_map.png)
+
 
 <!-- ## Features
 
@@ -44,6 +49,7 @@ If there's anything you'd like to chat about, email is always welcome!
 <!-- ## Contributors
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification  -->
+
 
 
 
