@@ -4,13 +4,15 @@
 
 ![Alt text](logo.png)
 </div>
-<p align="center">
-  watchpennies.com
-</p>
+
+
 <p align="center">
   Graphical Living Costs Breakdown
 </p>
+<p  style="width:20%; margin: auto;" align="center">
 
+[watchpennies.com](https://watchpennies.com/)
+</p>
 
 <!-- ## Features
 
